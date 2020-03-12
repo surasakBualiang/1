@@ -1,0 +1,19 @@
+{
+    "name": "ir",
+    "version": "0.1.2",
+    "description": "Tinkercademy package for ElecFreaks IR receiver module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h"
+    ],
+    "public": true
+}
