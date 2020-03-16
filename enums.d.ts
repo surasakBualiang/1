@@ -25,7 +25,7 @@
 
 
     declare const enum RemoteButton {
-       Power = 0x00,
+    Power = 0x00,
     VolUp = 0x01,
     FuncStop = 0x02,
     Left= 0x1a,
