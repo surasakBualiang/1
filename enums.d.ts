@@ -25,7 +25,7 @@
 
 
     declare const enum RemoteButton {
-    Power = 0x00,
+Power = 0x00,
     VolUp = 0x01,
     Star = 0x02,
     Left= 0x1a,
@@ -45,7 +45,7 @@
     Six = 0x16,
     Seven = 0x18,
     Eight = 0x0c,
-    Nine = 0x00,
+    Nine = 0xc0,
     }
 declare namespace IR {
 }
