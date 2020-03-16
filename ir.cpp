@@ -48,7 +48,7 @@ enum class RemoteButton {
     Six = 0x16,
     Seven = 0x18,
     Eight = 0x0c,
-    Nine = 0x0f,
+    Nine = 0x0f
 };
 
 //% color=50 weight=80
