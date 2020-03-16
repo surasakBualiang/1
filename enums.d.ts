@@ -25,7 +25,7 @@
 
 
     declare const enum RemoteButton {
-    Power = 0x00,
+       Power = 0x00,
     VolUp = 0x01,
     FuncStop = 0x02,
     Left= 0x1a,
@@ -38,10 +38,10 @@
     EQ = 0x0d,
     StRept = 0x0e,
     One = 0x10,
-    Two = 0x11,
-    Three = 0x12,
-    Four = 0x14,
-    Five = 0x19,
+    Two = 0x09,
+    Three = 0x0a,
+    Four = 0x0b,
+    Five = 0x0c,
     Six = 0x16,
     Seven = 0x18,
     Eight = 0x0c,
