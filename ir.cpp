@@ -48,7 +48,7 @@ Power = 0x00,
     Six = 0x16,
     Seven = 0x18,
     Eight = 0x0c,
-    Nine = 0x00
+    Nine = 0xc0
 };
 
 //% color=50 weight=80
